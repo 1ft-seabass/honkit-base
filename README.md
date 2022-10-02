@@ -8,7 +8,7 @@ npm i
 
 ## GitHub Pages settings
 
-Settings > Pages を選択します。
+Settings をクリックして左メニューから Pages を移動します。
 
 - Source
   - Deploy from branch
@@ -29,6 +29,12 @@ npm run build
 ## 初コミット
 
 コミットします。
+
+## 表示確認
+
+Settings をクリックして左メニューから Pages を移動します。
+
+GitHub Pages のところに、公開されたページが書かれているので Visit site をクリックしてページを見に行きます。
 
 ## serve
 
