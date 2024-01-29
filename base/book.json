@@ -8,5 +8,8 @@
     "copy-code-button",
     "intopic-toc",
     "back-to-top-button"
-  ]
+  ],
+  "styles": {
+    "website": "styles/website.css"
+  }
 }

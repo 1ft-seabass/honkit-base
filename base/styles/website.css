@@ -1,0 +1,10 @@
+/* サイドメニューでのタイトル折り返し */
+.book-summary ul.summary li a,.book-summary ul.summary li span {
+  white-space: normal;
+}
+
+/* スマホ表示や狭い画面での横幅調整 */
+.page-inner {
+  max-width: 80% !important; 
+  width: 70% !important;
+}
