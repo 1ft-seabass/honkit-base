@@ -8,7 +8,8 @@
   },
   "scripts": {
     "serve": "honkit serve base src",
-    "build": "honkit build base docs"
+    "build": "honkit build base docs",
+    "serve-open": "open-cli http://localhost:4000"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,7 @@
   },
   "homepage": "https://github.com/1ft-seabass/honkit-base#readme",
   "devDependencies": {
-    "honkit": "^3.6.20"
+    "honkit": "^6.0.0"
   },
   "dependencies": {
     "gitbook-plugin-advanced-emoji": "^0.2.2",
@@ -30,6 +31,7 @@
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-copy-code-button": "0.0.2",
     "gitbook-plugin-hide-published-with": "0.0.1",
-    "gitbook-plugin-intopic-toc": "^1.1.1"
+    "gitbook-plugin-intopic-toc": "^1.1.1",
+    "open-cli": "^8.0.0"
   }
 }
