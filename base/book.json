@@ -3,6 +3,8 @@
   "description":"詳細説明",
   "language":"ja",
   "plugins":[
+    "-search",
+    "-lunr",
     "anchors",
     "hide-published-with",
     "copy-code-button",
