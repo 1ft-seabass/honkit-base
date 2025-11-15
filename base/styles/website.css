@@ -8,3 +8,9 @@
   max-width: 80% !important; 
   width: 70% !important;
 }
+
+/* 本文のフォントサイズ */
+/* search をオフにしたときの fontsetting 関連の調整 */
+.book-body .page-inner section {
+  font-size: 1.6rem !important;  /* 16px - HonKit デフォルト */
+}
