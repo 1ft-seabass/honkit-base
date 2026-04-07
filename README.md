@@ -11,12 +11,11 @@ npm i
 Settings をクリックして左メニューから Pages を移動します。
 
 - Source
-  - Deploy from branch
-- Branch
-  - main
-  - /doc
+  - **GitHub Actions** を選択
 
 で設定して保存します。
+
+main ブランチに push すると GitHub Actions が自動でビルド・デプロイします。
 
 ## build
 
