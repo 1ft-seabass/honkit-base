@@ -1,14 +1,14 @@
 {
   "name": "honkit-base",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
-    "doc": "docs"
+    "articles": "articles"
   },
   "scripts": {
     "serve": "honkit serve base src",
-    "build": "honkit build base docs",
+    "build": "honkit build base articles",
     "serve-open": "open-cli http://localhost:4000"
   },
   "repository": {
