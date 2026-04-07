@@ -14,7 +14,7 @@ Settings をクリックして左メニューから Pages を移動します。
   - Deploy from branch
 - Branch
   - main
-  - /doc
+  - /articles
 
 で設定して保存します。
 
